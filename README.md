@@ -16,4 +16,7 @@ The simulator provides insights into the uncertainty and variability of election
 ## Output
 - Probabilities of each candidate winning each state  
 - Simulated Electoral College distributions across iterations  
-- Election map highlighting influence of state-level outcomes in overall result  
+- Election map highlighting influence of state-level outcomes in overall result
+
+## Requirements
+- Need geometry path for map of US states, with borders
